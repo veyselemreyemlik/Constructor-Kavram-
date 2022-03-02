@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7EQKPTxgqlBaLwljfBjTSUe400bFy0jfTRtQSCSA2SZjJOwdmgBMP9naWPuKNrSU+QxxyG4Fpry7LnTsDdnrlA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\veyse\\OneDrive\\Masaüstü\\C# PROJELERİ\\Kurucu-Metotlar\\Kurucu-Metotlar\\Kurucu-Metotlar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\veyse\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
